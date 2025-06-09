@@ -1,4 +1,4 @@
-# Canvas Tool Checker
+# Canvas External Tool Scanner
 
 
 This script scans Canvas LMS courses in specified terms to see if a given external tool is enabled in the course navigation. It outputs a CSV report of matching courses.
