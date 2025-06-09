@@ -52,7 +52,7 @@ Set the following variables in your `.env` file or OS environment:
 
 - `CANVAS_ACCESS_TOKEN` (required): Your Canvas API access token
 - `CANVAS_PROD_HOSTNAME` (required): Canvas hostname (e.g., `canvas.institution.edu`)
-- `CANVAS_ROOT_ACCOUNT_ID` (required): Canvas root account ID (usually `1`)
+- `CANVAS_ROOT_ACCOUNT_ID` (optional): Canvas root account ID (usually `1`)
 
 See `.env.example` for a template.
 
